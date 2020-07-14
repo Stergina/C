@@ -1,4 +1,4 @@
-/* Author: Stergiani Koukoumtzi*/
+/* Author: Stergina */
 
 #include "p3170258-pizza2.h"
 
