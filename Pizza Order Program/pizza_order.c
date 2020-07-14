@@ -1,4 +1,4 @@
-/* Stergiani Koukoumtzi 3170258 */
+/* Author: Stergiani Koukoumtzi*/
 
 #include "p3170258-pizza2.h"
 
