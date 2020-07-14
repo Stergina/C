@@ -1,4 +1,4 @@
-/* Stergiani Koukoumtzi 3170258 */
+/* Author: Stergina */
 
 #include <stdio.h>
 #include <pthread.h>
@@ -7,7 +7,7 @@
 #include <time.h> 
 #include <math.h> 
 
-/* Declared in p3170258-pizza2.c */
+/* Declared in pizza_order.c */
 extern int Ncook;
 extern int Noven;
 extern int Ndeliverer;
