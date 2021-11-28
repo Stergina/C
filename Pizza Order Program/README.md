@@ -1,4 +1,4 @@
-# Pizza Order Program in C
+# Pizza Ordering System
 
 
 **Objective**:  
